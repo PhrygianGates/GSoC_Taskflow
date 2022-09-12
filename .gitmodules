@@ -1,0 +1,9 @@
+[submodule "PARSEC-v3.0"]
+	path = PARSEC-v3.0
+	url = git@github.com:PhrygianGates/PARSECBenchmark-v3.0-Ferret-Taskflow.git
+[submodule "PARSEC-v2.1"]
+	path = PARSEC-v2.1
+	url = git@github.com:PhrygianGates/PARSECBenchmark-v2.1-Dedup-Taskflow.git
+[submodule "GSoC2022"]
+	path = GSoC2022
+	url = git@github.com:taskflow/GSoC2022.git
