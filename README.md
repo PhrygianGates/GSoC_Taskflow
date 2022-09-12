@@ -3,7 +3,7 @@
 
 ## Abstract
 
-I would like to apply for the **Taskflow: Enhance Pipeline Infrastructure** project. This project is to add a layer of data abstraction on top of taskflow's original pipeline, so that users can either choose to prepare the data buffer manually and use an efficient pipeline without data abstraction, or choose to use a pipeline with data abstraction and let the program allocate the buffer automatically.
+I would like to apply for the [**Taskflow: Enhance Pipeline Infrastructure**](https://github.com/taskflow/GSoC2022) project. This project is to add a layer of data abstraction on top of taskflow's original pipeline, so that users can either choose to prepare the data buffer manually and use an efficient pipeline without data abstraction, or choose to use a pipeline with data abstraction and let the program allocate the buffer automatically.
 
 
 ## Introduction to taskflow
